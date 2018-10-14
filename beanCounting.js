@@ -1,3 +1,7 @@
+// Bean Counting
+// Exercise on Page 56
+
+
 // function to count a specific Char in a specific string
 function countBs(myString){
   return countChar(myString, "B");
