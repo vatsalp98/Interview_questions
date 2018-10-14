@@ -1,3 +1,6 @@
+// Sum of a range of Numbers
+// Exercise on Page 79
+
 let output = [];
 function range (start, end, step = 1){
 
