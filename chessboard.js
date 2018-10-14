@@ -1,3 +1,6 @@
+// ChessBoard
+// Exercise on Page 38
+
 
 let odd = " #";
 let even = "# ";
